@@ -1,0 +1,2 @@
+
+git init: Crea un repositori local de mi proyecto
